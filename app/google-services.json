@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "759334009328",
+    "project_id": "my-bauet1",
+    "storage_bucket": "my-bauet1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759334009328:android:50015d62f6a079d072c535",
+        "android_client_info": {
+          "package_name": "com.etercesbd.mybauet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759334009328-laefd819o4fks8ri0pdv33sts1d3gtcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etercesbd.mybauet",
+            "certificate_hash": "87b57245283b925aec747193f397748492be4c24"
+          }
+        },
+        {
+          "client_id": "759334009328-snl1lusofhcf6mtdfunntcfcpvnn6cnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOry__mTMnPR4HXUI5tx49GzA-tap_tbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759334009328-snl1lusofhcf6mtdfunntcfcpvnn6cnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

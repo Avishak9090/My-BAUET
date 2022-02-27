@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/drawable/buttonshape.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/drawable/custom_input.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/drawable/custome_btn.xml" value="0.2625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/drawable/drop.xml" value="0.199609375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/drawable/hibtn.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.199609375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/drawable/id_icon.xml" value="0.199609375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/drawable/new_custome_bg.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/drawable/pass_icon.xml" value="0.199609375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/drawable/persone.xml" value="0.199609375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/drawable/phone_icon.xml" value="0.199609375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/drawable/re_pass_icon.xml" value="0.199609375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/layout/activity_2.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/layout/activity_home.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/layout/activity_splash.xml" value="0.176" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/layout/activity_student_login.xml" value="0.176" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/layout/activity_student_signup.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyBAUET/app/src/main/res/layout/activity_webview.xml" value="0.18478260869565216" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8 (4)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

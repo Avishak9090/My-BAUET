@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My BAUET</string>
+
+    <string-array name="Batch_item">
+        <item>   Select Batch </item>
+        <item> 7th</item>
+        <item> 8th</item>
+        <item> 9th</item>
+        <item> 10th</item>
+        <item> 11th</item>
+        <item> 12th</item>
+        <item> 13th</item>
+        <item> 14th</item>
+
+    </string-array>
+
+    <string name="signup">
+        <b><u>Sign up</u></b>
+
+        </string>
+
+    <string name="logintext">
+        Have no account ? <b><u>Sign up</u></b>
+
+        </string>
+
+
+</resources>
